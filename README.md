@@ -1,4 +1,4 @@
 ### Hi, I'm Liliana Gorga
 
-- 🖥️ I've been coding in PHP and React.js primarly
-- 💻 I’m currently learning Java
+- 🖥️ I've been coding in PHP, Java and React.js primarly
+- 💻 I’m currently learning Next.js
